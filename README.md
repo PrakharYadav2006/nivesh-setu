@@ -117,3 +117,4 @@ Language, then 7 questions, then a summary screen. The choices now have visible 
 - [ ] `npm run test:ai` step 4: all 10 coach events come back from the AI. If one doesn't, it prints why.
 - [ ] `npm run check:links`, then watch each candidate video and set `verified: true`, `watchedBy` and `checkedOn` in `shared/lessons.js`. Also open the SEBI page tabs that did not load the first time.
 - [ ] Testers who used an old install: reinstall the app, or reload twice, so the new name shows.
+"# nivesh-setu" 
